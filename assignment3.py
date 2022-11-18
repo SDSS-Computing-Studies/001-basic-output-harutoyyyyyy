@@ -14,4 +14,4 @@ This is the second sentence.
 """
 
 
-("this is the first sentence.this is the second sentence")
+print('this is the first sentence.\nthis is the second sentence')
